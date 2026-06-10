@@ -104,7 +104,7 @@ OPENWEATHER_KEY=your_openweather_key
 Clone the repository:
 
 ```bash
-git clone https://github.com/ChiOny/WTLabs.git
+git clone https://github.com/ChiOny/ISS-Space-Bot.git
 ```
 
 Install the required libraries:
